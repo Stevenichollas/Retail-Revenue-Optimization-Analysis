@@ -18,4 +18,4 @@ The backend utilizes three primary tables structured with strict relational inte
 ## 🖥️ Interactive Dashboard Interface
 Below is the completed executive frontend interface built with custom theme styling, hidden gridlines, and synchronized cross-filtering slicers:
 
-![Executive Retail Dashboard](Dashboard_Screenshot 130809.png)
+
